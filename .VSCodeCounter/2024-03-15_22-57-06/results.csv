@@ -1,0 +1,21 @@
+"filename", "language", "Go", "Go Checksum File", "Go Module File", "comment", "blank", "total"
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\auction.go", "Go", 72, 0, 0, 9, 14, 95
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\award.go", "Go", 57, 0, 0, 2, 13, 72
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bid.go", "Go", 66, 0, 0, 7, 14, 87
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\generators.go", "Go", 35, 0, 0, 15, 8, 58
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\go.mod", "Go Module File", 0, 0, 2, 0, 2, 4
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\helpers.go", "Go", 137, 0, 0, 20, 25, 182
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\ipp_prover.go", "Go", 282, 0, 0, 73, 42, 397
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\ipp_verifier.go", "Go", 153, 0, 0, 37, 20, 210
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\range_batch_prover.go", "Go", 247, 0, 0, 55, 47, 349
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\range_batch_verifier.go", "Go", 59, 0, 0, 16, 17, 92
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\range_prover.go", "Go", 337, 0, 0, 85, 55, 477
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\bulletproof\range_verifier.go", "Go", 120, 0, 0, 40, 28, 188
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\deposit.go", "Go", 48, 0, 0, 4, 11, 63
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\go.mod", "Go Module File", 0, 0, 18, 0, 4, 22
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\go.sum", "Go Checksum File", 0, 87, 0, 0, 1, 88
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\open.go", "Go", 112, 0, 0, 13, 26, 151
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\register.go", "Go", 18, 0, 0, 2, 5, 25
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\setup.go", "Go", 37, 0, 0, 6, 12, 55
+"c:\Users\Ps'y'duck'L'iu\OneDrive - sjtu.edu.cn\Research\Auction\Implementation\Experiment\verify.go", "Go", 29, 0, 0, 2, 9, 40
+"Total", "-", 1809, 87, 20, 386, 353, 2655
