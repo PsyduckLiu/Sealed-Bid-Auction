@@ -1,0 +1,211 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "winningBid",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "winningProof",
+						"type": "string"
+					}
+				],
+				"name": "submitAward",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "bidCommitment",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "bidProof",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "differenceProof",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "bidSig",
+						"type": "string"
+					}
+				],
+				"name": "submitBid",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "depositCiphertext",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "depositCommitment",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "a_1_1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "a_2_1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "z_1_1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "z_2_1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "as_1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "depositProof",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "depositSig",
+						"type": "string"
+					}
+				],
+				"name": "submitDeposit",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "bidCiphertext",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "a_1_2",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "a_2_2",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "z_1_2",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "z_2_2",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "as_2",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "openSig",
+						"type": "string"
+					}
+				],
+				"name": "submitOpen",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "pk",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "pk_proofs_g_w",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "s",
+						"type": "string"
+					}
+				],
+				"name": "submitRegister",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/auction.sol": "Auction"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/auction.sol": {
+			"keccak256": "0xf5f50d5303e754a5c8751a1934ecdd8f5b1e73022c6aa0d994178455d0d39cdc",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d447d944d9f5d71efc4cb624a13f4c9f646df3de8cfb142169e21b0e73dcde27",
+				"dweb:/ipfs/QmVZhgrXryQvhfH2VA7zzrRXAUy2V3jY444sd2rCmfj3Lk"
+			]
+		}
+	},
+	"version": 1
+}
